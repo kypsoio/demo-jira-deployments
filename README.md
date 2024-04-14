@@ -172,3 +172,5 @@
 
 - change KPT-23
 
+- change KPT-24
+
