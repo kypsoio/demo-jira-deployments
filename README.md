@@ -188,3 +188,4 @@ Is this the product discussion we were looking for?
 
 - change KPT-32
 
+- change KPT-38
