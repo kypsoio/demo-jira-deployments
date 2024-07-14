@@ -1,6 +1,7 @@
 Is this the product discussion we were looking for?
 
 change KAN-3
+KAN-3
 
 1. change
 
@@ -177,7 +178,7 @@ change KAN-3
 - change KPT-23
 
 - change KPT-24
-
+- change KPT-25
 
 - change KPT-29
 
@@ -187,5 +188,10 @@ change KAN-3
 
 - change KPT-31
 
+- change KAN-3
+
 - change KPT-32
 
+- change KPT-38
+- change KPT-39
+- change KPT-40
