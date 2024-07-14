@@ -186,6 +186,8 @@ Is this the product discussion we were looking for?
 
 - change KPT-31
 
+- change KAN-3
+
 - change KPT-32
 
 - change KPT-38
